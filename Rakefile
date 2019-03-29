@@ -3,4 +3,7 @@
 
 require_relative 'config/application'
 
-Rails.application.load_tasks #
+Rails.application.load_tasks
+
+1
+2
